@@ -1,0 +1,13 @@
+C:\Users\Satya Maddila\source\repos\Namespace1\bin\Debug\netcoreapp3.1\Namespace1.exe
+C:\Users\Satya Maddila\source\repos\Namespace1\bin\Debug\netcoreapp3.1\Namespace1.deps.json
+C:\Users\Satya Maddila\source\repos\Namespace1\bin\Debug\netcoreapp3.1\Namespace1.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\Namespace1\bin\Debug\netcoreapp3.1\Namespace1.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\Namespace1\bin\Debug\netcoreapp3.1\Namespace1.dll
+C:\Users\Satya Maddila\source\repos\Namespace1\bin\Debug\netcoreapp3.1\Namespace1.pdb
+C:\Users\Satya Maddila\source\repos\Namespace1\obj\Debug\netcoreapp3.1\Namespace1.csprojAssemblyReference.cache
+C:\Users\Satya Maddila\source\repos\Namespace1\obj\Debug\netcoreapp3.1\Namespace1.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\Namespace1\obj\Debug\netcoreapp3.1\Namespace1.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\Namespace1\obj\Debug\netcoreapp3.1\Namespace1.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\Namespace1\obj\Debug\netcoreapp3.1\Namespace1.dll
+C:\Users\Satya Maddila\source\repos\Namespace1\obj\Debug\netcoreapp3.1\Namespace1.pdb
+C:\Users\Satya Maddila\source\repos\Namespace1\obj\Debug\netcoreapp3.1\Namespace1.genruntimeconfig.cache
